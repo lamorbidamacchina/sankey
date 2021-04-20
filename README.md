@@ -8,5 +8,5 @@ Open your terminal, locate the folder and run
 
 ```python3 sankey.py```
 
-The script will create two text file that you can use with [GoogleCharts](https://developers.google.com/chart/interactive/docs/gallery/sankey) and [Amcharts](https://www.amcharts.com/demos/sankey-diagram/)
+The script will create two text files that you can use with [GoogleCharts](https://developers.google.com/chart/interactive/docs/gallery/sankey) and [Amcharts](https://www.amcharts.com/demos/sankey-diagram/)
 
