@@ -1,7 +1,7 @@
 import csv
 import json
 
-with open('forced.csv', newline='') as csvfile:
+with open('sample_data.csv', newline='') as csvfile:
   data = list(csv.reader(csvfile))
   targets = data[0]
   del targets[0]
